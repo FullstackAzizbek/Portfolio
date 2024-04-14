@@ -17,9 +17,7 @@ function Work() {
       <div className="work-bottom">
         <div className="work-card">
           <a href="https://itparkchust.netlify.app/" target="_blank">
-            <div className="work-card-top">
-              
-            </div>
+            <div className="work-card-top"></div>
           </a>
           <h4 className="work-sub-title">IT Park</h4>
           <h6 className="work-h6">Website</h6>
@@ -29,6 +27,13 @@ function Work() {
             <div className="work-card-top"></div>
           </a>
           <h4 className="work-sub-title">Calculator</h4>
+          <h6 className="work-h6">Web App</h6>
+        </div>
+        <div className="work-card">
+          <a href="https://paintazizbek2.netlify.app/" target="_blank">
+            <div className="work-card-top"></div>
+          </a>
+          <h4 className="work-sub-title">Paint Loyihasi</h4>
           <h6 className="work-h6">Web App</h6>
         </div>
       </div>
